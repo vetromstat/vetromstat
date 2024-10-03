@@ -2,8 +2,7 @@
 
 ### About me:
 - Currently getting masters at MAI(Moscow Aviation Institute)
-- Working as Data Science intern
-- Interested in data science and computer science
+- Working as Data Scientist at large insurance company
 
 
 📫 How to reach me:
