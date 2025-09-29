@@ -1,8 +1,8 @@
 ## Hello there 👋
 
 ### About me:
-- Currently getting masters at MAI(Moscow Aviation Institute)
-- Working as Data Scientist at large insurance company
+- Master of computer science
+- Working as Machine learning engineer at large insurance company
 
 
 📫 How to reach me:
