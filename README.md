@@ -2,7 +2,7 @@
 
 ### About me:
 - Master of computer science
-- Working as Machine learning engineer at large insurance company
+- Working as machine learning engineer at large insurance company
 
 
 📫 How to reach me:
